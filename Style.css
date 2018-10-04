@@ -1,0 +1,80 @@
+body{
+ background-color: rgb(149,69,69);
+max-width: 150%;
+font-family: Calibri;
+color: black; font-size: 18px}
+h1{
+font-family: Calibri;
+color: red}
+h2{
+font-family: Calibri;
+color: red; font-size: 26px}
+h3{
+font-family: Calibri;
+color: yellow; font-size: 18px}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: #111;
+}
+table, th, td {
+    border: 1px solid black;
+}
+table{
+    float: top;
+    display: inline-block;
+}
+header{
+    background-color: #333;
+}
+footer{
+    width: 100%;
+    background-color: #333;
+    padding: 60px 0px;
+
+}
+
+
+.logo {
+    width: 40px;
+    height: 120px;
+    position:absolute; top: 20px; left: 20px; 
+}
+th {
+    text-align: left;
+}
+select {
+    width:100px;
+}
+.bottom {
+    position: left:0px; bottom:0px;
+    background-color: black;
+    max-height: 250px;
+    max-width: 100%
+}
+.bottom p {
+    color:white;
+    font-size: 15px
+    width: 100%;
+    background-color: #333;
+    padding: 60px 0px;
+}
+
