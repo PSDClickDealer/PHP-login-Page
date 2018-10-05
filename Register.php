@@ -56,7 +56,7 @@ require_once "inc/config.php";
     	<button class="uk-button uk-button-default" type="submit">Register</button>
     </div>
 </form>
-
+<!--
 <div class="bottom">
 
 <div id="container">
@@ -68,7 +68,7 @@ require_once "inc/config.php";
   <footer id="bottom">
     
   </footer>
-
+-->
 
 </body>
 </html>
