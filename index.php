@@ -14,18 +14,18 @@ require_once "inc/config.php";
 //		alert('Loaded');
 //	});
 //</script>
-<title>hello there</title>
+<title></title>
 <link rel="stylesheet" href="Login.css">
 </head>
 <body>
 
 	<div class="uk-section uk-container">
-		<?php 
-			echo "Hello there ";
+			<?php 
 			echo date("Y m d");
-		 ?>
+			 ?>
 	</div>
-<a href="register.php">Register</a> <a href="register.php">Login</a>
+	<br>
+<a href="register.php">Register</a> <a href="Login.php">Login</a>
 
 
 </body>
